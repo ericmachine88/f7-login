@@ -1,0 +1,13 @@
+2015-04-13 20:23:23.815 F7 Mobile App[2073:126121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wenchingchua/Library/Developer/CoreSimulator/Devices/8500F28E-F48F-4B70-95E2-3432BD1E5C75/data/Containers/Data/Application/4A3690D6-DC84-47A6-A7AD-FA95756ADE71/Library/Cookies/Cookies.binarycookies
+2015-04-13 20:23:24.025 F7 Mobile App[2073:126121] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-13 20:23:24.026 F7 Mobile App[2073:126121] Multi-tasking -> Device: YES, App: YES
+2015-04-13 20:23:24.047 F7 Mobile App[2073:126121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-13 20:23:24.659 F7 Mobile App[2073:126121] Resetting plugins due to page load.
+2015-04-13 20:23:24.804 F7 Mobile App[2073:126121] Finished load of: file:///Users/wenchingchua/Library/Developer/CoreSimulator/Devices/8500F28E-F48F-4B70-95E2-3432BD1E5C75/data/Containers/Bundle/Application/80E7D061-502E-408F-809E-E5F384059B96/F7%20Mobile%20App.app/www/index.html
